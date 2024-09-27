@@ -1,0 +1,8 @@
+﻿Fill in the data in AutoAccept.py lines 11 - 14.
+Get the bot token at https://t.me/BotFather
+Group and channel IDs can be obtained through the bot https://t.me/chatIDrobot
+
+pip install aiogram==2.22.2
+
+Run:
+py AutoAccept.py
